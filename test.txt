@@ -1,1 +1,3 @@
 Its the new repo training session.
+
+Added the changes 
